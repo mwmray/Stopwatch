@@ -1,0 +1,7 @@
+matrix_keypad.c:9:13:Hardware_Interface_Initialize	3
+matrix_keypad.c:31:13:Hardware_Generate_Delay	1
+matrix_keypad.c:35:16:Hardware_Get_Inputs	1
+matrix_keypad.c:42:13:Hardware_Set_Outputs	1
+matrix_keypad.c:47:6:Keypad_Matrix_init	1
+matrix_keypad.c:52:6:Keypad_Matrix_Refresh	2
+matrix_keypad.c:63:9:Keypad_Matrix_ReadKey	2
